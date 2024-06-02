@@ -1,6 +1,7 @@
 # Report-usage-of-AWS
 
-We will be using AWS CLI and Shell Scripting Knowledge in this Project.
+We are assuming that you have to monitor the resources used in your organization and have to send it to the manager by 6 pm every day.
+Instead of manually checking, Today We will use AWS CLI and Shell Scripting Knowledge in this Project to get our desired job done using automation.
 
 ![image](https://github.com/mohit06chaudhari/Report-usage-of-AWS/assets/104330373/3fd4b715-eed5-4166-afd0-2d00baef6ad4)
 
