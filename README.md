@@ -17,3 +17,8 @@ modified using echo for better view
 ![image](https://github.com/mohit06chaudhari/Report-usage-of-AWS/assets/104330373/5541146a-a90a-4826-830a-0c580f211664)
 
 
+set +x  // to  run command in debug mode
+
+
+![image](https://github.com/mohit06chaudhari/Report-usage-of-AWS/assets/104330373/ae35f6d4-a439-4a1d-9dfd-3ff28a941623)
+
