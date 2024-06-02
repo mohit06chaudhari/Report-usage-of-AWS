@@ -4,7 +4,7 @@ We are assuming that you have to monitor the resources used in your organization
 Instead of manually checking, Today We will use AWS CLI and Shell Scripting Knowledge in this Project to get our desired job done using automation.
 
 Outline of our Project
-![image](https://github.com/mohit06chaudhari/Report-usage-of-AWS/assets/104330373/3fd4b715-eed5-4166-afd0-2d00baef6ad4)
+![image](https://github.com/mohit06chaudhari/Report-usage-of-AWS/assets/104330373/c37eca13-3ce8-4f9e-ba0c-11e3a82617bb)
 
 
 Procedure : 
